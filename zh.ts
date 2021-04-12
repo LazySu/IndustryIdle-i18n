@@ -1,8 +1,8 @@
-export const EN = {
+export const zh = {
     OK: "OK",
-    SteelMill: "Steel Mill",
-    StainlessSteelPlant: "Stainless Steel Plant",
-    CircuitFoundry: "Circuit Foundry",
+    SteelMill: "钢厂",
+    StainlessSteelPlant: "不锈钢厂",
+    CircuitFoundry: "电路铸造",
     IntegratedCircuit: "Integrated Circuit",
     OilWell: "Oil Well",
     Wood: "Wood",
